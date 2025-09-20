@@ -1,13 +1,17 @@
+import React from "react";
 import { Container } from "react-bootstrap";
 
-export default function About() {
+function About() {
   return (
-    <Container className="mt-5">
+    <Container className="my-5">
       <h2>About Us</h2>
       <p>
-        We are a passionate IT solutions company focused on delivering high-quality software,
-        web applications, and digital products for businesses worldwide.
+        Vizlyx IT Solutions is a forward-thinking software company 
+        dedicated to delivering cutting-edge web, cloud, and AI solutions. 
+        Our mission is to empower businesses with technology that drives success.
       </p>
     </Container>
   );
 }
+
+export default About;
