@@ -3,7 +3,7 @@ import Home from "./pages/Home";
 import Services from "./pages/Services";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-import Header from "./component/Header";
+import Header from "./component/Header/Header";
 import Footer from "./component/Footer";
 import PageNotFound from "./pages/PageNotFound";
 import logo from "./logo.svg";
